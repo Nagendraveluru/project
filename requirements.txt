@@ -1,0 +1,9 @@
+pip install sklearn-genetic
+pip install SwarmPackagePy
+pip install numpy==1.19.2
+pip install pandas==0.25.3
+pip install matplotlib==3.1.1
+pip install h5py==2.10.0
+pip install protobuf==3.16.0
+pip install sklearn==0.0
+pip install urllib3==1.22
